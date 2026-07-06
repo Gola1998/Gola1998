@@ -1,113 +1,93 @@
 ![banner](banner-static_.svg)
-# Hi there 👋, I'm Gaurav
+<p align="center">
+  <img src="banner-static_.svg" />
+</p>
 
-### Frontend Developer | React.js | JavaScript | Redux Toolkit | Tailwind CSS
+# Hi, I'm Gaurav 👋
 
-Frontend Developer with ~1.5+ years of professional experience** building responsive, scalable, and user-centric web applications. Experienced in developing modern React applications, integrating REST APIs, optimizing performance, and delivering maintainable frontend solutions.
+## Frontend Developer
 
----
+Frontend Developer with **1.5+ years of experience** building responsive and scalable web applications using **React.js, JavaScript (ES6+), Redux Toolkit, and Tailwind CSS**.
 
-## 👨‍💻 About Me
-
-- 💼 Former Frontend Developer at **Hocalwire Labs Pvt. Ltd.**
-- ⚛️ Passionate about building modern web applications using React.js
-- 🚀 Interested in Frontend Architecture, Performance Optimization, and UI/UX
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **Node.js**
-- 🎯 Open to Frontend Developer opportunities
+I focus on building **clean UI, scalable frontend architecture, and high-performance web applications** with seamless API integration.
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Tech Stack
 
 **Frontend**
+React.js • JavaScript (ES6+) • HTML5 • CSS3 • Redux Toolkit • Tailwind CSS • React Router • jQuery
 
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Redux Toolkit
-- React Router
-- jQuery
-
-**Tools & Technologies**
-
-- Git
-- GitHub
-- Firebase
-- REST APIs
-- VS Code
-- Chrome DevTools
-- Slack
+**Tools**
+Git • GitHub • Firebase • REST APIs • VS Code • Chrome DevTools
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-### Frontend Developer
-**Hocalwire Labs Pvt. Ltd.**  
-**July 2022 – November 2023**
+### Frontend Developer — Hocalwire Labs Pvt. Ltd.
+**July 2022 – Nov 2023**
 
-- Developed responsive CMS-driven web applications.
-- Converted UI/UX designs into production-ready interfaces.
-- Integrated REST APIs for dynamic content.
-- Improved application performance and frontend stability.
-- Collaborated closely with designers and backend developers.
+- Built responsive CMS-based web applications using React.js
+- Developed reusable and scalable UI components
+- Integrated REST APIs for dynamic features
+- Improved performance and resolved frontend issues
+- Worked in Agile team environment with designers and backend developers
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎬 NetflixGPT
+### 🎬 NetflixGPT
+AI-powered movie recommendation app using React and GPT-based APIs
 
-AI-powered movie recommendation platform built with React and OpenAI APIs.
-
-### Highlights
-
-- GPT-powered movie recommendations
 - Firebase Authentication
-- TMDB API Integration
-- Redux Toolkit
-- Responsive UI
+- TMDB API integration
+- Redux Toolkit state management
+- Modular React architecture
 
-🔗 Repository  
-https://github.com/Gola1998/Netflix-GPT
-
----
-
-## 🍔 FoodFlick
-
-Food ordering application built with React using live restaurant APIs.
-
-### Highlights
-
-- Live API Integration
-- Redux Toolkit
-- React Router
-- Responsive Design
-- Component-Based Architecture
-
-🔗 Repository  
-https://github.com/Gola1998/Foodflick
+🔗 https://github.com/Gola1998/Netflix-GPT
 
 ---
 
-## 📚 Currently Learning
+### 🍔 FoodFlick
+Food ordering web application with live API integration
+
+- Real-time restaurant data using Swiggy API
+- Redux Toolkit for state management
+- Responsive UI with Tailwind CSS
+- Component-based architecture
+
+🔗 https://github.com/Gola1998/Foodflick
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gola1998&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gola1998&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Currently Learning
 
 - Next.js
 - TypeScript
-- Node.js
-- System Design
-- Web Performance Optimization
+- System Design Basics
+- Performance Optimization
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-📧 Email: gola8011@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/gaurav-gola-333498301/
+- Email: gol8011@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/gaurav-gola-333498301/  
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ *Frontend Developer focused on building clean, scalable, and high-performance web applications.*

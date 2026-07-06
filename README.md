@@ -1,3 +1,4 @@
+![banner](banner-static.svg)
 # Hi there 👋, I'm Gaurav
 
 ### Frontend Developer | React.js | JavaScript | Redux Toolkit | Tailwind CSS

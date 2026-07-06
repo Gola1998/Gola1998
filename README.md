@@ -1,24 +1,25 @@
-# Hi there 👋, I'm Gaurav Gola
+# Hi there 👋, I'm Gaurav
 
 ### Frontend Developer | React.js | JavaScript | Redux Toolkit | Tailwind CSS
 
-Frontend Developer with **1.5+ years of experience** building responsive and scalable web applications using **React.js, JavaScript, Redux Toolkit, Tailwind CSS, and modern web technologies**. Passionate about creating clean, user-friendly interfaces, optimizing performance, and writing maintainable code.
+Frontend Developer with ~1.5+ years of professional experience** building responsive, scalable, and user-centric web applications. Experienced in developing modern React applications, integrating REST APIs, optimizing performance, and delivering maintainable frontend solutions.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Frontend Developer with ~ 1.5+ years of experience
-- ⚛️ Specialized in React.js and JavaScript (ES6+)
+- 💼 Former Frontend Developer at **Hocalwire Labs Pvt. Ltd.**
+- ⚛️ Passionate about building modern web applications using React.js
+- 🚀 Interested in Frontend Architecture, Performance Optimization, and UI/UX
 - 🌱 Currently learning **Next.js**, **TypeScript**, and **Node.js**
-- 🤝 Open to collaborating on React and Frontend projects
-- 📍 Delhi NCR, India
+- 🎯 Open to Frontend Developer opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
+**Frontend**
+
 - React.js
 - JavaScript (ES6+)
 - HTML5
@@ -28,83 +29,84 @@ Frontend Developer with **1.5+ years of experience** building responsive and sca
 - React Router
 - jQuery
 
-### Tools & Platforms
+**Tools & Technologies**
+
 - Git
 - GitHub
 - Firebase
+- REST APIs
 - VS Code
 - Chrome DevTools
-- REST APIs
 - Slack
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 ### Frontend Developer
 **Hocalwire Labs Pvt. Ltd.**  
 **July 2022 – November 2023**
 
-- Built responsive and scalable user interfaces using React, HTML, CSS, and JavaScript.
-- Developed CMS-driven applications with a focus on usability and performance.
-- Integrated REST APIs for dynamic content and functionality.
-- Collaborated with designers and backend developers to deliver production-ready features.
-- Optimized web pages for speed, accessibility, and scalability.
-- Debugged and resolved frontend issues to improve application stability.
+- Developed responsive CMS-driven web applications.
+- Converted UI/UX designs into production-ready interfaces.
+- Integrated REST APIs for dynamic content.
+- Improved application performance and frontend stability.
+- Collaborated closely with designers and backend developers.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎬 NetflixGPT
-An AI-powered movie recommendation application that uses GPT and TMDB APIs.
+## 🎬 NetflixGPT
 
-**Tech Stack**
-- React.js
-- Redux Toolkit
-- Tailwind CSS
+AI-powered movie recommendation platform built with React and OpenAI APIs.
+
+### Highlights
+
+- GPT-powered movie recommendations
 - Firebase Authentication
-- GPT-3.5 API
-- TMDB API
+- TMDB API Integration
+- Redux Toolkit
+- Responsive UI
 
-**Repository**
-- https://github.com/Gola1998/Netflix-GPT
+🔗 Repository  
+https://github.com/Gola1998/Netflix-GPT
 
 ---
 
-### 🍔 FoodFlick
-A food ordering application with live restaurant data and modern React architecture.
+## 🍔 FoodFlick
 
-**Tech Stack**
-- React.js
+Food ordering application built with React using live restaurant APIs.
+
+### Highlights
+
+- Live API Integration
 - Redux Toolkit
 - React Router
-- Tailwind CSS
-- Live API Integration
+- Responsive Design
+- Component-Based Architecture
 
-**Repository**
-- https://github.com/Gola1998/Foodflick
+🔗 Repository  
+https://github.com/Gola1998/Foodflick
 
 ---
 
-## 🌱 Currently Learning
+## 📚 Currently Learning
 
 - Next.js
 - TypeScript
 - Node.js
-- Performance Optimization
 - System Design
+- Web Performance Optimization
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-- 📧 Email: gola8011@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/gaurav-gola-333498301/
-- 🌐 Portfolio: Coming Soon
+📧 Email: gola8011@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/gaurav-gola-333498301/
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy transforming UI designs into fast, responsive, and user-friendly web applications while continuously learning modern frontend technologies.
+⭐ Thanks for visiting my profile!

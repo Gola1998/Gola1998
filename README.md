@@ -1,7 +1,4 @@
 ![banner](banner-static_.svg)
-<p align="center">
-  <img src="banner-static_.svg" />
-</p>
 
 # Hi, I'm Gaurav 👋
 

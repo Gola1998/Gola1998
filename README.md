@@ -59,18 +59,6 @@ Food ordering web application with live API integration
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gola1998&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gola1998&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Currently Learning
 
 - Next.js

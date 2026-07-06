@@ -1,0 +1,106 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0118"/>
+      <stop offset="45%" stop-color="#150B2E"/>
+      <stop offset="100%" stop-color="#04070F"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#67E8F9"/>
+      <stop offset="55%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#0E7490"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="hardBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#3B4368" stroke-width="0.6" opacity="0.25"/>
+    </pattern>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- ambient glows -->
+  <circle cx="120" cy="30" r="220" fill="url(#glowCyan)" filter="url(#softBlur)"/>
+  <circle cx="980" cy="270" r="260" fill="url(#glowBlue)" filter="url(#softBlur)"/>
+
+  <!-- static stars -->
+  <g fill="#B6E9FF" opacity="0.7">
+    <circle cx="640" cy="40" r="1.6"/>
+    <circle cx="700" cy="80" r="1.2"/>
+    <circle cx="600" cy="230" r="1.4"/>
+    <circle cx="1140" cy="60" r="1.3"/>
+    <circle cx="500" cy="150" r="1.1"/>
+  </g>
+
+  <!-- left accent bar -->
+  <rect x="60" y="60" width="4" height="168" rx="2" fill="#22D3EE" opacity="0.9"/>
+
+  <!-- name -->
+  <text x="86" y="108" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800" fill="#F5F7FF" letter-spacing="0.5" filter="url(#textGlow)">Gaurav Gola</text>
+
+  <!-- role -->
+  <text x="88" y="140" font-family="Consolas, 'Courier New', monospace" font-size="19" fill="#22D3EE">Frontend Developer · React.js</text>
+
+  <!-- tagline -->
+  <text x="88" y="166" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#8B93B0">Building responsive, scalable web apps with React, Redux Toolkit &amp; Tailwind CSS</text>
+
+  <!-- badge pills -->
+  <g font-family="Consolas, 'Courier New', monospace" font-size="12.5" font-weight="700">
+    <rect x="88" y="187" width="112" height="26" rx="13" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.8"/>
+    <text x="144" y="204" fill="#67E8F9" text-anchor="middle">1.5+ YOE</text>
+
+    <rect x="210" y="187" width="150" height="26" rx="13" fill="none" stroke="#6366F1" stroke-width="1" opacity="0.8"/>
+    <text x="285" y="204" fill="#A5B4FC" text-anchor="middle">React Specialist</text>
+
+    <rect x="370" y="187" width="150" height="26" rx="13" fill="none" stroke="#22D3EE" stroke-width="1" opacity="0.8"/>
+    <text x="445" y="204" fill="#67E8F9" text-anchor="middle">Clean Code</text>
+  </g>
+
+  <!-- core stack icon row -->
+  <g transform="translate(88,225)">
+    <image href="https://skillicons.dev/icons?i=react" x="0"   y="0" width="32" height="32"/>
+    <image href="https://skillicons.dev/icons?i=js"    x="44"  y="0" width="32" height="32"/>
+    <image href="https://skillicons.dev/icons?i=redux" x="88"  y="0" width="32" height="32"/>
+    <image href="https://skillicons.dev/icons?i=tailwind" x="132" y="0" width="32" height="32"/>
+  </g>
+
+  <!-- static orbit system, right side -->
+  <g transform="translate(970,150)">
+    <ellipse rx="150" ry="80" fill="none" stroke="#3B4368" stroke-width="1" stroke-dasharray="3 6" opacity="0.7"/>
+    <ellipse rx="95" ry="50" fill="none" stroke="#3B4368" stroke-width="1" stroke-dasharray="3 6" opacity="0.7"/>
+
+    <!-- outer orbit: tools (fixed positions) -->
+    <image href="https://skillicons.dev/icons?i=git" x="113.9" y="24" width="32" height="32"/>
+    <image href="https://skillicons.dev/icons?i=firebase" x="-129.9" y="-56" width="32" height="32"/>
+
+    <!-- inner orbit: markup (fixed positions) -->
+    <image href="https://skillicons.dev/icons?i=html" x="-14" y="36" width="28" height="28"/>
+    <image href="https://skillicons.dev/icons?i=css" x="-14" y="-64" width="28" height="28"/>
+
+    <!-- core -->
+    <circle r="46" fill="url(#coreGlow)" opacity="0.25" filter="url(#hardBlur)"/>
+    <circle r="34" fill="#0D1729" stroke="#22D3EE" stroke-width="1.5"/>
+    <text x="0" y="7" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" fill="#F5F7FF" text-anchor="middle">GG</text>
+  </g>
+</svg>
